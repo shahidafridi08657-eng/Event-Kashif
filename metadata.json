@@ -1,0 +1,6 @@
+{
+  "name": "EVENT KASHIF",
+  "description": "Professional Gaming Tournament Platform for Battle Royale, Clash Squad, and Lone Wolf with live brackets, payments, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Hexagonal Esports Crest Shield Outer Border -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,23 L79,34 L79,64 L54,84 L29,64 L29,34 Z" />
+
+    <!-- Hexagonal Crest Inner Dark Plate -->
+    <path
+        android:fillColor="#0D1520"
+        android:pathData="M54,26 L76,36 L76,62 L54,80 L32,62 L32,36 Z" />
+
+    <!-- Emerald Glow Ring Accent -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,29 L73,38 L73,60 L54,76 L35,60 L35,38 Z" />
+
+    <!-- Shield Core -->
+    <path
+        android:fillColor="#141E2B"
+        android:pathData="M54,32 L70,40 L70,58 L54,72 L38,58 L38,40 Z" />
+
+    <!-- Top Crown / Victory Star -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,34 L56,38 L60,39 L57,42 L58,46 L54,44 L50,46 L51,42 L48,39 L52,38 Z" />
+
+    <!-- Golden Tournament Trophy Cup -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M43,45 L65,45 L62,59 C61,63 57,66 54,66 C51,66 47,63 46,59 Z" />
+
+    <!-- Trophy Inner Rim Light -->
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M44,46 L64,46 L61,57 C60,61 57,64 54,64 C51,64 48,61 47,57 Z" />
+
+    <!-- Trophy Left Handle -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M43,47 C40,47 38,50 38,54 C38,58 40,61 44,62 L44,59 C42,58 40,56 40,54 C40,52 42,49 44,49 Z" />
+
+    <!-- Trophy Right Handle -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M65,47 C68,47 70,50 70,54 C70,58 68,61 64,62 L64,59 C66,58 68,56 68,54 C68,52 66,49 64,49 Z" />
+
+    <!-- Trophy Pedestal Stem -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M52,66 L56,66 L55,71 L53,71 Z" />
+
+    <!-- Trophy Base -->
+    <path
+        android:fillColor="#B45309"
+        android:pathData="M47,71 L61,71 L62,75 L46,75 Z" />
+
+    <!-- Cyan Controller Accent Buttons on Base -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M49,72.5 A1,1 0 1,1 51,72.5 A1,1 0 1,1 49,72.5" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M53,72.5 A1,1 0 1,1 55,72.5 A1,1 0 1,1 53,72.5" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M57,72.5 A1,1 0 1,1 59,72.5 A1,1 0 1,1 57,72.5" />
+
+</vector>
